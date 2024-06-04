@@ -8,6 +8,3 @@ This is an Algorand xGov supported projects badge that you can use for attributi
        <img alt="siws logo" src="https://github.com/headline-design/xgov-badge/blob/main/xgov-badge-black.png?raw=true" width="auto" height="60">
       </picture>
        
-   
-      
-![xGov Badge](https://github.com/headline-design/xgov-badge/blob/main/xgov-badge-black.png?raw=true "xGov Badge")
