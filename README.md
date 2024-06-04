@@ -6,7 +6,7 @@ Example usage:
 
 ```html
 <a href="https://xgov.algorand.foundation">
-{badge}
+<img src=[xgov-badge-url] alt="xGov supported project" width="auto" height="60">
 </a>
 ```
 
